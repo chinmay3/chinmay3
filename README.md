@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi I am Chinmay 👋
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/aryann-chopraa](https://www.linkedin.com/in/chinmay-khanna-353a981b1/)//)]
 <!--
 **chinmay3/chinmay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
