@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-khanna-353a981b1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chinmay_033/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:chinmaykhanna3@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-lightgrey?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.co.in/citations?hl=en&view_op=list_works&gmla=AGd7smHEVqE4sugHtG1_GtIJYvT73w-Sg57rFRBRVFhf6vLyt2XjtAuf2SGwzL0WXgMf5xbzAOK6xUu8thbNlQ&user=VrCj9g0AAAAJ)
 
 ## About Me
 
